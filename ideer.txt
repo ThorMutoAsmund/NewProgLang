@@ -6,6 +6,8 @@ Encapsulation of properties and methods. Private: Only this class.
 
 All member variables are defined through properties:
 
+Immutables!!!
+
 property Name; // Private member variable
 property Name { get; } // Publicly readable member variable
 property Name { get() => return $Name } // Publicly readable member variable with getter
