@@ -1,3 +1,5 @@
+https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
+
 No inheritence just containment and delegation
 
 All method arguments be named. Positional arguments is an option to be used in e.g. math functions
